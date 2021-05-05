@@ -1,0 +1,12 @@
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\bin\Debug\netcoreapp2.0\CreatingAHoldingPage.deps.json
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\bin\Debug\netcoreapp2.0\CreatingAHoldingPage.runtimeconfig.json
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\bin\Debug\netcoreapp2.0\CreatingAHoldingPage.runtimeconfig.dev.json
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\bin\Debug\netcoreapp2.0\CreatingAHoldingPage.dll
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\bin\Debug\netcoreapp2.0\CreatingAHoldingPage.pdb
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\obj\Debug\netcoreapp2.0\CreatingAHoldingPage.csprojAssemblyReference.cache
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\obj\Debug\netcoreapp2.0\CreatingAHoldingPage.AssemblyInfoInputs.cache
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\obj\Debug\netcoreapp2.0\CreatingAHoldingPage.AssemblyInfo.cs
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\obj\Debug\netcoreapp2.0\CreatingAHoldingPage.csproj.CoreCompileInputs.cache
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\obj\Debug\netcoreapp2.0\CreatingAHoldingPage.dll
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\obj\Debug\netcoreapp2.0\CreatingAHoldingPage.pdb
+D:\web\asp-dot-net-core-in-action-master\chapter03\2.0\CreatingAHoldingPage\CreatingAHoldingPage\obj\Debug\netcoreapp2.0\CreatingAHoldingPage.genruntimeconfig.cache
