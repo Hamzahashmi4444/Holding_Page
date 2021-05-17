@@ -13125,11 +13125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\web\\asp-dot-net-core-in-action-master\\chapter03\\2.0\\CreatingAHoldingPage\\CreatingAHoldingPage\\CreatingAHoldingPage.csproj",
+      "projectUniqueName": "D:\\Holding_Page\\CreatingAHoldingPage\\CreatingAHoldingPage\\CreatingAHoldingPage.csproj",
       "projectName": "CreatingAHoldingPage",
-      "projectPath": "D:\\web\\asp-dot-net-core-in-action-master\\chapter03\\2.0\\CreatingAHoldingPage\\CreatingAHoldingPage\\CreatingAHoldingPage.csproj",
+      "projectPath": "D:\\Holding_Page\\CreatingAHoldingPage\\CreatingAHoldingPage\\CreatingAHoldingPage.csproj",
       "packagesPath": "C:\\Users\\aliab\\.nuget\\packages\\",
-      "outputPath": "D:\\web\\asp-dot-net-core-in-action-master\\chapter03\\2.0\\CreatingAHoldingPage\\CreatingAHoldingPage\\obj\\",
+      "outputPath": "D:\\Holding_Page\\CreatingAHoldingPage\\CreatingAHoldingPage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aliab\\AppData\\Roaming\\NuGet\\NuGet.Config",
